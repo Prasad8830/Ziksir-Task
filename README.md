@@ -4,7 +4,7 @@ A modern, full-stack MERN notes application with user authentication, note manag
 
 ## Live Demo
 
-🔗 **[Live Application](your-deployment-url-here)**
+🔗 **[Live Application](https://ziksirnotes.netlify.app/)**
 
 ## Features
 
