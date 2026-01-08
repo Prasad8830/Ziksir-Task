@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basic color tweaks to match design */
+body { @apply bg-neutral-50 }
+
+.card-gradient {
+  background: linear-gradient(180deg, #ffffff 0%, #fffaf0 100%);
+}
